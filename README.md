@@ -1,3 +1,2 @@
 # qtSerial
-A serial-port software for the sensor
-hahaha...
+我只是试试看怎么用github
