@@ -26,7 +26,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += main.cpp\
         mainwindow.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    serialport.h
 
 FORMS    += mainwindow.ui
 DEFINES += QT_DLL QWT_DLL
@@ -37,4 +38,5 @@ INCLUDEPATH += C:\Qt\Qt5.8.0\5.8\mingw53_32\include\Qwt
   QT += serialport
 
 DISTFILES += \
-    ../../../../../文档/WeChat Files/zyuan96/Files/test.bin
+    ../../../../../文档/WeChat Files/zyuan96/Files/test.bin \
+    README.md
