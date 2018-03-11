@@ -39,4 +39,5 @@ INCLUDEPATH += C:\Qt\Qt5.8.0\5.8\mingw53_32\include\Qwt
 
 DISTFILES += \
     ../../../../../文档/WeChat Files/zyuan96/Files/test.bin \
-    README.md
+    README.md \
+    sampledata.pro.user
